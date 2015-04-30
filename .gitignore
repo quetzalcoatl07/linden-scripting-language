@@ -74,7 +74,6 @@ _ReSharper*
 _UpgradeReport_Files/
 bin
 bin/
-build
 develop-eggs
 dist
 eggs
