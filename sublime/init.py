@@ -16,3 +16,4 @@ if sublime.version().startswith('2'):
 # When Sublime Text 3, we can't until they are ready to use.
 def plugin_loaded():
 	chmod_lslint()
+

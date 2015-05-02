@@ -18,4 +18,3 @@ class ChangeEditorSchemeCommand(sublime_plugin.WindowCommand):
 
 	def is_checked(self):
 		return self._is_checked
-
